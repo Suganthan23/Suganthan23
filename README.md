@@ -6,45 +6,42 @@
 
   <br/>
 
-  <p align="center" style="font-size: 1.1rem;">
-    <b>Solving problems with clean code and modern architecture.</b>
-  </p>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> const suganthan = {
+      role: "Full Stack Engineer",
+      code: ["Java", "Javascript", "Python"],
+      tools: ["React", "Node"],
+      status: "Open to Work"
+   };
+  </code>
+
+  <br/><br/>
 
   <p align="center">
     <a href="mailto:suganthan2303@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Email-2e303e?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="https://www.linkedin.com/in/suganthan-s-76b259253/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-2e303e?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn"/>
     </a>
   </p>
 
   <br/>
 
   <h3>⚡ Tech Stack</h3>
-  
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts&theme=dark" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwindcss&theme=dark" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=git,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,express,mongodb,mysql,git,postman&theme=dark" />
 
   <br/><br/>
 
-  <h3>📊 Engineering Metrics</h3>
+  <h3>🚀 Featured Projects</h3>
+  
+  | Project & Description | Tech Stack | View |
+  | :--- | :--- | :---: |
+  | **Versiq**<br/>High-performance e-commerce platform featuring a custom design system, fluid animations, and a scalable Supabase backend. | <img src="https://skillicons.dev/icons?i=react,nodejs&theme=dark&perline=3" width="50" /> | [🔗 Code](https://github.com/Suganthan23/Versiq-E-Commerce-Website) |
+  | *Backend Engineering Portfolio**<br/>A collection of four advanced backend systems built to master Authentication, Transactions, Concurrency, and Real-Time Architectures. | <img src="https://skillicons.dev/icons?i=java,mysql&theme=dark&perline=3" width="50" /> | [🔗 Code](https://github.com/Suganthan23/Backend-Engineering-Portfolio) |
+  | **JavaScript Engineering Portfolio**<br/>A technical portfolio demonstrating the progression from functional algorithms to scalable, asynchronous frontend applications using modern Vanilla JS patterns. | <img src="https://skillicons.dev/icons?i=python,html&theme=dark&perline=3" width="50" /> | [🔗 Code](https://github.com/Suganthan23/Javascript-Engineering-Portfolio) |
 
-  <table>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=Suganthan23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Suganthan's Github Stats" />
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suganthan23&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-  
-  <br/>
-  
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <br/><br/>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" />
 
 </div>
