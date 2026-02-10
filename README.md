@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3F8CFF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Suganthan;Full+Stack+Software+Engineer;Building+Scalable+Solutions;Open+to+Work" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3F8CFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Suganthan;Full+Stack+Software+Engineer;Building+Scalable+Solutions;Open+to+Work" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -14,17 +14,15 @@
   <br/>
 
   <p align="center">
-    <a href="mailto:suganthan2303@gmail.com" target="_blank">
+    <a href="mailto:suganthan2303@gmal.com" target="_blank">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
   </p>
 
   <br/>
 
-  <h3>🛠  Tech Stack</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,js,html,css,tailwindcss,react,nodejs,express,mongodb,mysql,git,postman&theme=dark" />
-  </a>
+  <h3>🛠 Tech Stack</h3>
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,tailwindcss,react,nodejs,express,mongodb,mysql,git,postman&theme=dark" />
 
   <br/><br/>
 
