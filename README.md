@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=79C0FF&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Engineer;Building+Scalable+Web+Solutions;Java+%7C+React+%7C+Node.js;Open+to+Opportunities" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=7aa2f7&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Engineer;Building+Scalable+Web+Solutions;Java+%7C+React+%7C+Node.js;Open+to+Opportunities" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -31,20 +31,20 @@
   <br/><br/>
 
   <h3>📊 Engineering Metrics</h3>
-  
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Suganthan23&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Suganthan's Github Stats" height="160px" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suganthan23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6" alt="Top Languages" height="160px" />
-    </a>
-  </p>
+
+  <table>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://github-readme-stats.vercel.app/api?username=Suganthan23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Suganthan's Github Stats" />
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suganthan23&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
   
   <br/>
   
-  <p align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-  </p>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 </div>
