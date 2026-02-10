@@ -1,42 +1,16 @@
-<div align="center">
+# 💫 About Me:
+I am a full stack software developer focused on building robust backend architectures and sleek frontend designs.<br>Turning complex problems into elegant, efficient code.
 
-  <h1>Hi, I'm Suganthan 👋</h1>
 
-  <br />
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suganthan23) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suganthan2303@gmail.com) 
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Engineer;Building+Scalable+Web+Solutions;Open+to+Work" alt="Typing SVG" />
-  </a>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Suganthan23&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Suganthan23&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Suganthan23&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-  <br/>
-
-  <p align="center">
-    I am a developer focused on building robust backend architectures and sleek frontend designs.<br>
-    Turning complex problems into elegant, efficient code.
-  </p>
-
-  <br/>
-
-  <p align="center">
-    <a href="mailto:suganthan2303@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-2e303e?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-    <a href="https://www.linkedin.com/in/suganthan23/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-2e303e?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn"/>
-    </a>
-  </p>
-
-  <br/>
-
-  <h3>⚡ Tech Stack</h3>
-  <marquee direction="left" scrollamount="8">
-    <img src="https://skillicons.dev/icons?i=java,python,js,react,html,css,tailwindcss,nodejs,express,mongodb,mysql,git,postman&theme=dark&perline=20" />
-    <img src="https://skillicons.dev/icons?i=java,python,js,react,html,css,tailwindcss,nodejs,express,mongodb,mysql,git,postman&theme=dark&perline=20" style="margin-left: 50px;" />
-  </marquee>
-
-  <br/><br/>
-
-  <h3>🔥 Coding Consistency</h3>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suganthan23&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&streakLabel=8b949e&currStreakNum=FEFEFE&sideLabels=8b949e&sideNums=FEFEFE" alt="streak graph" />
-
-</div>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
