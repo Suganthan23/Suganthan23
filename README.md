@@ -14,7 +14,7 @@
   <br/>
 
   <p align="center">
-    <a href="mailto:suganthan2303@gmal.com" target="_blank">
+    <a href="mailto:suganthan2303@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
   </p>
@@ -26,15 +26,11 @@
 
   <br/><br/>
 
-  <h3>📊 GitHub Activity</h3>
-  
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Suganthan23&show_icons=true&theme=transparent&hide_border=true&title_color=3F8CFF&text_color=999&icon_color=3F8CFF" height="150" alt="stats graph" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suganthan23&layout=compact&theme=transparent&hide_border=true&title_color=3F8CFF&text_color=999&icon_color=3F8CFF" height="150" alt="languages graph" />
-  </div>
+  <h3>📈 Contribution Graph</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Suganthan23&bg_color=0d1117&color=3F8CFF&line=3F8CFF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 
-  <br/>
+  <br/><br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suganthan23&theme=transparent&hide_border=true&ring=3F8CFF&fire=3F8CFF&currStreakLabel=3F8CFF" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suganthan23&theme=github-dark-blue&hide_border=true&ring=3F8CFF&fire=3F8CFF&currStreakLabel=3F8CFF" alt="streak graph" />
 
 </div>
