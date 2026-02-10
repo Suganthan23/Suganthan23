@@ -29,15 +29,14 @@
   <br/>
 
   <h3>⚡ Tech Stack</h3>
- 
   <marquee direction="left" scrollamount="8">
-    <img src="https://skillicons.dev/icons?i=java,python,js,react,html,css,tailwindcss,nodejs,express,mongodb,mysql,git,postman&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=java,python,js,react,html,css,tailwindcss,nodejs,express,mongodb,mysql,git,postman&theme=dark" style="margin-left: 50px;" />
+    <img src="https://skillicons.dev/icons?i=java,python,js,react,html,css,tailwindcss,nodejs,express,mongodb,mysql,git,postman&theme=dark&perline=20" />
+    <img src="https://skillicons.dev/icons?i=java,python,js,react,html,css,tailwindcss,nodejs,express,mongodb,mysql,git,postman&theme=dark&perline=20" style="margin-left: 50px;" />
   </marquee>
 
   <br/><br/>
 
   <h3>🔥 Coding Consistency</h3>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suganthan23&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&streakLabel=8b949e&currStreakNum=white&sideLabels=8b949e" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suganthan23&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&streakLabel=8b949e&currStreakNum=FEFEFE&sideLabels=8b949e&sideNums=FEFEFE" alt="streak graph" />
 
 </div>
