@@ -10,7 +10,7 @@
 
   <br/>
 
-  <p align="center" style="font-size: 16px; color: #8b949e;">
+  <p align="center">
     I am a developer focused on building robust backend architectures and sleek frontend designs.<br>
     Turning complex problems into elegant, efficient code.
   </p>
@@ -29,11 +29,11 @@
   <br/>
 
   <h3>⚡ Tech Stack</h3>
-  <div align="center" style="width: 80%; margin: auto;">
-    <marquee behavior="scroll" direction="left" scrollamount="10">
-      <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nextjs,html,css,tailwindcss,nodejs,express,mongodb,mysql,git,docker,postman&theme=dark" />
-    </marquee>
-  </div>
+ 
+  <marquee direction="left" scrollamount="8">
+    <img src="https://skillicons.dev/icons?i=java,python,js,react,html,css,tailwindcss,nodejs,express,mongodb,mysql,git,postman&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,python,js,react,html,css,tailwindcss,nodejs,express,mongodb,mysql,git,postman&theme=dark" style="margin-left: 50px;" />
+  </marquee>
 
   <br/><br/>
 
