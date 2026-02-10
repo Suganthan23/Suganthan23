@@ -1,36 +1,50 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3F8CFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Suganthan;Full+Stack+Software+Engineer;Building+Scalable+Solutions;Open+to+Work" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=79C0FF&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Engineer;Building+Scalable+Web+Solutions;Java+%7C+React+%7C+Node.js;Open+to+Opportunities" alt="Typing SVG" />
   </a>
 
   <br/>
 
-  <p align="center">
-     I am a passionate developer focused on building scalable web applications and software solutions.<br>
-     I love combining logical backend architecture with sleek frontend design.
+  <p align="center" style="font-size: 1.1rem;">
+    <b>Solving problems with clean code and modern architecture.</b>
   </p>
-
-  <br/>
 
   <p align="center">
     <a href="mailto:suganthan2303@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+      <img src="https://img.shields.io/badge/Email-2e303e?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
   </p>
 
   <br/>
 
-  <h3>🛠 Tech Stack</h3>
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,tailwindcss,react,nodejs,express,mongodb,mysql,git,postman&theme=dark" />
+  <h3>⚡ Tech Stack</h3>
+  
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts&theme=dark" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwindcss&theme=dark" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=git,postman,docker,linux&theme=dark" />
 
   <br/><br/>
 
-  <h3>📈 Contribution Graph</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Suganthan23&bg_color=0d1117&color=3F8CFF&line=3F8CFF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-
-  <br/><br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suganthan23&theme=github-dark-blue&hide_border=true&ring=3F8CFF&fire=3F8CFF&currStreakLabel=3F8CFF" alt="streak graph" />
+  <h3>📊 Engineering Metrics</h3>
+  
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Suganthan23&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Suganthan's Github Stats" height="160px" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suganthan23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6" alt="Top Languages" height="160px" />
+    </a>
+  </p>
+  
+  <br/>
+  
+  <p align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  </p>
 
 </div>
