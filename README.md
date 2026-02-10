@@ -27,6 +27,7 @@
   <br/><br/>
 
   <h3>📊 GitHub Activity</h3>
+  
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Suganthan23&show_icons=true&theme=transparent&hide_border=true&title_color=3F8CFF&text_color=999&icon_color=3F8CFF" height="150" alt="stats graph" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suganthan23&layout=compact&theme=transparent&hide_border=true&title_color=3F8CFF&text_color=999&icon_color=3F8CFF" height="150" alt="languages graph" />
