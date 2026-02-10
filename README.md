@@ -22,11 +22,11 @@
   
   <img src="https://skillicons.dev/icons?i=java,python,js,ts&theme=dark" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwindcss&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwindcss&theme=dark" />
   <br/>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=git,postman,docker,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,postman&theme=dark" />
 
   <br/><br/>
 
